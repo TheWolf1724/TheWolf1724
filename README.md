@@ -21,8 +21,8 @@
 	<a href="https://github.com/TheWolf1724?tab=repositories">
 		<img alt="Repos" src="https://img.shields.io/badge/Repos-Ver%20todos-2ea44f?style=for-the-badge&amp;logo=github" />
 	</a>
-	<a href="mailto:tu_correo@dominio.com">
-		<img alt="Email" src="https://img.shields.io/badge/Email-tu_correo%40dominio.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
+	<a href="mailto:a@a.a">
+		<img alt="Email" src="https://img.shields.io/badge/Email-a%40a.a-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
 	</a>
 </p>
 
