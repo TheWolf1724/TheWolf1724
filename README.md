@@ -16,58 +16,37 @@
 
 <p>
 	<a href="https://github.com/TheWolf1724">
-		<img alt="GitHub" src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" />
+		<img alt="GitHub" src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&amp;logo=github" />
 	</a>
 	<a href="https://github.com/TheWolf1724?tab=repositories">
-		<img alt="Repos" src="https://img.shields.io/badge/Repos-Ver%20todos-2ea44f?style=for-the-badge&logo=github" />
+		<img alt="Repos" src="https://img.shields.io/badge/Repos-Ver%20todos-2ea44f?style=for-the-badge&amp;logo=github" />
 	</a>
 	<a href="mailto:tu_correo@dominio.com">
-		<img alt="Email" src="https://img.shields.io/badge/Email-tu_correo%40dominio.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+		<img alt="Email" src="https://img.shields.io/badge/Email-tu_correo%40dominio.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
 	</a>
 </p>
 
 <p>
-	<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-	<img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-	<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+	<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+	<img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=white" />
+	<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-## 📌 Pinned projects
-
-<div align="center">
-	<table>
-		<tr>
-			<td>
-				<a href="https://github.com/TheWolf1724/Proyectos_Publicos">
-					<img alt="Proyectos_Publicos" src="https://github-readme-stats.vercel.app/api/pin/?username=TheWolf1724&repo=Proyectos_Publicos&theme=radical&hide_border=true" />
-				</a>
-			</td>
-			<td>
-				<a href="https://github.com/TheWolf1724/Impostor_App">
-					<img alt="Impostor_App" src="https://github-readme-stats.vercel.app/api/pin/?username=TheWolf1724&repo=Impostor_App&theme=radical&hide_border=true" />
-				</a>
-			</td>
-		</tr>
-	</table>
-</div>
-
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="165" alt="TheWolf1724's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TheWolf1724&show_icons=true&theme=radical&hide_border=true" />
-      </td>
-      <td>
-        <img height="165" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheWolf1724&layout=compact&theme=radical&hide_border=true" />
-      </td>
-    </tr>
-  </table>
+	<p>
+		<img alt="Actividad mensual (Proyectos_Publicos)" src="https://img.shields.io/github/commit-activity/m/TheWolf1724/Proyectos_Publicos?style=for-the-badge" />
+	</p>
+	<p>
+		<img alt="Lenguaje principal (Proyectos_Publicos)" src="https://img.shields.io/github/languages/top/TheWolf1724/Proyectos_Publicos?style=for-the-badge" />
+		<img alt="Cantidad de lenguajes (Proyectos_Publicos)" src="https://img.shields.io/github/languages/count/TheWolf1724/Proyectos_Publicos?style=for-the-badge" />
+		<img alt="Tamaño del repo (Proyectos_Publicos)" src="https://img.shields.io/github/repo-size/TheWolf1724/Proyectos_Publicos?style=for-the-badge" />
+	</p>
 </div>
 
 ---
